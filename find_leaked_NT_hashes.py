@@ -12,7 +12,7 @@ import mmap
 START_MESSAGE = "Ну, поехали!"
 
 HASHFILE_DB = ["hashes.001", "hashes.002", "hashes.003", "hashes.004", "hashes.005", "hashes.006", "hashes.007"]
-HASHFILE_TO_CHECK = "hashes_only_sorted.csv"
+HASHFILE_TO_CHECK = "hashes_only_sorted.lst"
 OUTPUT_FILE = "leaked_hashes.csv"
 
 
